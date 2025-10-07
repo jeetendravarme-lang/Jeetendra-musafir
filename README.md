@@ -1,4 +1,4 @@
 # Jeetendra-musafir
 this is my first repository
 <BR>
-Author - jeetendra 
+Author - jeetendra musafir
